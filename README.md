@@ -15,6 +15,7 @@ my config files and tools
 
 ### Tools for mac
 * MacDown
+* wine
 
 
 ### Develop Tools
@@ -30,6 +31,8 @@ my config files and tools
 * BmFont
 * Fontmaker
 * Android ndk/sdk
+* Fiddler
+* FontAwesome
 
 ### 娱乐
 * 网易云音乐
