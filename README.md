@@ -8,10 +8,21 @@ my config files and tools
 
 ### Tools for windows
 * Setuna
+* Launchy
+* ZoomIt
 * Cygwin
 * FreeRename
 * Audacity
-* ffmpeg
+* FFmpeg
+* ConEmu
+* WinScp
+* Putty
+* Securecrt
+* SuperPutty
+* synergy
+* vnc-viewer
+* Kemulator
+
 
 ### Tools for mac
 * MacDown
@@ -33,6 +44,9 @@ my config files and tools
 * Android ndk/sdk
 * Fiddler
 * FontAwesome
+* depends
+* ILSpy
+* javaDecompile
 
 ### 娱乐
 * 网易云音乐
